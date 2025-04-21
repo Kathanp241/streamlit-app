@@ -8,6 +8,16 @@ This is a Streamlit app that allows users to explore a dataset of used cars, fil
 
 Filter car data by brand and fuel type
 
+Bar Chart – average price by brand
+
+Scatter Plot – price over the years
+
+Pie Chart – fuel type share
+
+Box Plot – price by fuel type
+
+Histogram – kilometers driven
+
 # 📊 Visualize data with interactive charts:
 
 Average price per brand
