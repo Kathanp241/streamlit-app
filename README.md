@@ -4,11 +4,11 @@
 
 This is a Streamlit app that allows users to explore a dataset of used cars, filter by car brands and fuel types, and view dynamic visualizations such as price distribution, average price by brand, and fuel type distribution.
 
-# Features:
+# ✨Features:
 
 Filter car data by brand and fuel type
 
-# Visualize data with interactive charts:
+# 📊 Visualize data with interactive charts:
 
 Average price per brand
 
@@ -22,7 +22,7 @@ Kilometers driven distribution (Histogram)
 
 Dynamic and interactive graphs using Plotly
 
-# Prerequisites:
+# ⚙️ Prerequisites:
 
 ## Before running the app, ensure you have the following installed:
 
@@ -34,7 +34,7 @@ Pandas for data manipulation
 
 Plotly for interactive plots
 
-# Setup & Installation:
+# 🛠️Setup & Installation:
 
 ## Follow the steps below to run the app locally:
 
@@ -58,7 +58,7 @@ From the terminal, navigate to the directory containing the app files and run:
 
 `streamlit run app.py`
 
-# Example cars.csv:
+# 🧪Example cars.csv:
 
 Here’s a sample cars.csv file you can use to get started:
 
@@ -102,7 +102,7 @@ A histogram showing the distribution of cars based on kilometers driven.
 
 Here you can include some screenshots of your app. These images will help potential users see what the app looks like.
 
-# Running in the Cloud (Streamlit Sharing):
+# ☁️Running in the Cloud (Streamlit Sharing):
 
 ## You can also deploy the app on Streamlit Cloud for sharing with others:
 
@@ -116,7 +116,7 @@ Deploy directly from your GitHub repository.
 
 This app uses the Iris Dataset (or any used car dataset you choose) and showcases how to combine Streamlit with Plotly for dynamic visualizations.
 
-# License:
+# 📜License:
 This project is open source and available under the MIT License.
 
 
