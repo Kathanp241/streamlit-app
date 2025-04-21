@@ -36,11 +36,16 @@ st.plotly_chart(fig2, use_container_width=True)
 
 # ✅ NEW CHARTS BELOW
 
-# Fuel Type Pie Chart
-st.subheader("⛽ Fuel Type Distribution")
+# Fuel Type Pie Chart (fixed version)
+# Fix for pie chart
 fuel_count = filtered_df['fuel'].value_counts().reset_index()
-fig3 = px.pie(fuel_count, names='index', values='fuel', title='Fuel Type Share')
+fuel_count.columns = ['fuel_type', 'count']  # Rename columns properly
+
+# Now pass correct names to px.pie
+fig3 = px.pie(fuel_count, names='fuel_type', values='count', title='Fuel Type Share')
 st.plotly_chart(fig3, use_container_width=True)
+
+
 
 # Average Price by Year (Line)
 st.subheader("📅 Avg Price Over Years")
