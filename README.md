@@ -1,14 +1,14 @@
 # streamlit-app
 
-#🚗 Used Car Price Explorer
+# 🚗 Used Car Price Explorer
 
 This is a Streamlit app that allows users to explore a dataset of used cars, filter by car brands and fuel types, and view dynamic visualizations such as price distribution, average price by brand, and fuel type distribution.
 
-#Features:
+# Features:
 
 Filter car data by brand and fuel type
 
-#Visualize data with interactive charts:
+# Visualize data with interactive charts:
 
 Average price per brand
 
