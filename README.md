@@ -63,7 +63,9 @@ From the terminal, navigate to the directory containing the app files and run:
 Here’s a sample cars.csv file you can use to get started:
 
 
-|name|year|km_driven|fuel|seller_type|transmission|owner|mileage|engine|max_power|price|
+| name | year | km_driven | fuel | seller_type | transmission | owner | mileage | engine | max_power | price |
+
+
 Maruti Swift,2014,70000,Petrol,Individual,Manual,First Owner,22.0 kmpl,1197 CC,82 bhp,4.2
 Hyundai i20,2016,50000,Diesel,Dealer,Manual,Second Owner,18.0 kmpl,1396 CC,90 bhp,5.5
 Honda City,2015,40000,Petrol,Individual,Manual,First Owner,17.4 kmpl,1497 CC,117 bhp,6.0
