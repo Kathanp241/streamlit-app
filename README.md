@@ -74,27 +74,27 @@ Here’s a sample cars.csv file you can use to get started:
 
 # Features Overview:
 
-## Sidebar Filters:
+### Sidebar Filters:
 
 Users can filter the dataset based on car brands and fuel types from the sidebar options.
 
-## Price by Brand:
+### Price by Brand:
 
 A bar chart showing the average price of cars by their brand.
 
-## Price vs Year:
+### Price vs Year:
 
 A scatter plot displaying the relationship between the car's price and the year of manufacture.
 
-## Fuel Type Distribution:
+### Fuel Type Distribution:
 
 A pie chart visualizing the distribution of car types based on fuel.
 
-## Price Distribution by Fuel Type:
+### Price Distribution by Fuel Type:
 
 A box plot to show how car prices vary based on fuel type.
 
-## Kilometers Driven Histogram:
+### Kilometers Driven Histogram:
 
 A histogram showing the distribution of cars based on kilometers driven.
 
